@@ -1,0 +1,18 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.row{
+  width: 50%;
+  margin: 50px;
+}
+body{
+  background-color: #f6e4d0;
+}
+.row button{
+  border-radius: 50px;
+  width: 100px;
+  background-color: #f6e4d0;
+  
+}
