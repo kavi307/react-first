@@ -16,3 +16,20 @@ body{
   background-color: #f6e4d0;
   
 }
+.container-2{
+  width: 90%;
+  margin: auto;
+}
+.row-2{
+  display: flex;
+  flex-wrap: wrap;
+}
+.col{
+
+  width: 25%;
+}
+.col img{
+  width: 100%;
+  height: auto;
+  padding: 5px;
+}

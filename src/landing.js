@@ -1,6 +1,7 @@
 import React from 'react'
 import image from './images/web-image.jpg'
-function Table(){
+function Table(props){
+    console.log('props',props);
     return (
         <div className='container'>
             <div className='row'>
